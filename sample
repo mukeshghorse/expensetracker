@@ -1,0 +1,5 @@
+Type,Category,Amount,Date
+TransactionRecord{transactionType='Income', category='Freelance', amount=2324.0, transactionDate=2025-04-03}
+TransactionRecord{transactionType='Expense', category='Travel', amount=232.0, transactionDate=2025-03-05}
+TransactionRecord{transactionType='Income', category='Salary', amount=23223.0, transactionDate=2025-03-02}
+TransactionRecord{transactionType='Expense', category='Rent', amount=3223.0, transactionDate=2025-03-04}
